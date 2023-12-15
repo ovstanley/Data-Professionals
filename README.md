@@ -10,11 +10,11 @@ It important to note that a Questionnaire was used to gather the data.
 
 ## Acknowledgements
 
- - [Alex Frebeg](https://www.youtube.com/@AlexTheAnalyst)
+ -[Alex Frebeg](https://www.youtube.com/@AlexTheAnalyst)
  
 ## Badges
 
- - [Google Data Analytics Certified](https://coursera.org/share/a8d25c0449449d3c2ad25ec3bdd9ba57)
+ -[Google Data Analytics Certified](https://coursera.org/share/a8d25c0449449d3c2ad25ec3bdd9ba57)
 
 
 ## 🛠 Skills
