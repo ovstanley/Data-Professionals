@@ -9,7 +9,7 @@ It important to note that a Questionnaire was used to gather the data.
 
 ## Acknowledgements
 
- - [Alex Frebeg](https://www.youtube.com/@AlexTheAnalyst)
+[Alex Frebeg] (https://www.youtube.com/@AlexTheAnalyst)
  
 ## Badges
 
